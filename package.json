@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.7.9",
+    "react-google-places-autocomplete": "^4.1.0",
+    "react-hot-toast": "^2.4.1"
+  }
+}
